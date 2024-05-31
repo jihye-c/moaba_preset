@@ -1,0 +1,27 @@
+/***************common shadow import***************/
+@import url("https://www.moa-ba.com//webheads/css/shadow.css");
+
+/***************Default Set***************/
+#landing * {font-family: 'Pretendard'; line-height: 1.25; vertical-align: baseline;}
+#landing section {position: relative; overflow: hidden;}
+#landing section .in-wrap{
+  width: 1180px; margin: 0 auto; position: relative;
+  padding: 60px 0; text-align: center;
+}
+#landing section *.flex_cc{display : flex; justify-content : center; align-items : center;}
+#landing section *.flex_bc{display : flex; justify-content : space-between; align-items : center;}
+#landing section h1{font-size: 72px;}
+#landing section h2{font-size: 64px;}
+#landing section h3{font-size: 56px;}
+#landing section h4{font-size: 48px;}
+#landing section h5{font-size: 40px;}
+#landing section h6{font-size: 32px;}
+
+/***************Background Set***************/
+
+
+/***************Section css***************/
+
+/*sec1*/
+
+/*secPayment*/
